@@ -1,16 +1,14 @@
-## Hi there 👋
+# سلام! 👋 من [پادشاه کد] هستم
 
-<!--
-**Uniquekingai/uniquekingai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[برنامه‌نویسی وب/پایتون/AI] 
 
-Here are some ideas to get you started:
+### پروژه‌های رایگان من
+- [لینک به ریپو ۱] — توضیح کوتاه
+- [لینک به ریپو ۲] — توضیح کوتاه
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### چطور کمک کنید؟
+اگر پروژه‌ها براتون مفید بود، خوشحال می‌شم حمایت کنید:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-purple)](https://github.com/sponsors/yourusername)
+
+یا از [Buy Me a Coffee](لینک) / [Patreon](لینک) استفاده کنید.
